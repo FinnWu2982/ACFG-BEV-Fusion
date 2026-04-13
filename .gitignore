@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pth
+*.pt
+*.ckpt
+*.log
+*.tmp
+.DS_Store
+data/
+output/
+vis_results/
+checkpoints/
+runs/
+wandb/
