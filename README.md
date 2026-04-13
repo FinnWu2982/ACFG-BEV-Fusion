@@ -13,7 +13,7 @@ The main contribution is an Adaptive Confidence Fusion Gate (ACFG) that replaces
 - `tools/demo_acfg_gate_bev.py`: gate heatmap visualization
 - `tools/demo_bevfusion_camratio_bev.py`: baseline camera-ratio BEV visualization
 
-- ## Report
+## Report
 A short project report is available in `docs/AER1515_ACFG_report.pdf`. It summarizes the method, experimental setup, robustness evaluation, and qualitative visualization results.
 
 ## How to Use
