@@ -12,6 +12,10 @@ The main contribution is an Adaptive Confidence Fusion Gate (ACFG) that replaces
 - `pcdet/datasets/processor/lidar_corruption.py`: LiDAR corruption functions
 - `tools/demo_acfg_gate_bev.py`: gate heatmap visualization
 - `tools/demo_bevfusion_camratio_bev.py`: baseline camera-ratio BEV visualization
+
+- ## Report
+A short project report is available in `docs/AER1515_ACFG_report.pdf`. It summarizes the method, experimental setup, robustness evaluation, and qualitative visualization results.
+
 ## How to Use
 This is not a full standalone detection framework. It is a compact extension repository that contains only the files I modified for this project.
 To use it:
