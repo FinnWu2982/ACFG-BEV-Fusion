@@ -26,10 +26,10 @@ This repository includes two main model variants:
 ![ACFG Context Gating](Figures/Figuresqualitative_results.png)
 
 ### Density-Guided ACFG with Supervision
-![ACFG Supervised Architecture](Figures/acfg_supervision_architecture.jpg)
+![ACFG Supervised Architecture](Figures/acfg_supervision_architecture.png)
 
 ### Qualitative BEV Results and Gate Heatmaps
-![Qualitative Results](Figures/qualitative_results.jpg)
+![Qualitative Results](Figures/qualitative_results.png)
 
 ## Repository Contents
 - `configs/bevfusion_acfg.yaml` — config for the end-to-end ACFG model
